@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+A metodologia de ensino será diferente de acordo com o conhecimento base do aluno, dependendo dele passarei rápido e darei conselhos dependendo do grau de conhecimento e também apontarei melhorias.
 
-You can use the [editor on GitHub](https://github.com/gustavo-vasconcellos/react-class/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Faremos projetos juntos e utilizaremos os melhores métodos de desenvolvimento em React e ES6 com o NPM de auxílio. Por fim o aluno estará apto ao desenvolvimento de aplicações web desktop e poderá ingressar mais facilmente também nos aplicativos Mobile posteriormente com React Native, sem grandes dificuldades.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gustavo-vasconcellos/react-class/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+As aulas a distancia farão uso de duas ferramentas: 
+- Zoom, para as chamadas de voz
+- Anydesk, para um compartilhamento de tela interativo
+- Além delas, eu recomendo o uso do Visual Studio Code para a edição do código
+- GIT (sem medo nisso, ensinarei o básico apenas para podermos compartilhar o código sem problemas).
